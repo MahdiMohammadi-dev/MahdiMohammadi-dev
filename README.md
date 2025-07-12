@@ -5,8 +5,19 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehdigeek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-mohammmadi-molahajiloo-72b757207) 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+# 😎 Language Programming
+[![My Skills](https://skillicons.dev/icons?i=cs,dart&perline=5)](https://skillicons.dev)
+
+# 💻 Tech Stack(Framework-Tools &etc...):
+[![My Skills](https://skillicons.dev/icons?i=flutter,dotnet,androidstudio,figma,git.github,obsidian,visualstudio,vscode,xd,postman&perline=5)](https://skillicons.dev)
+
+# DataBase Stack
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mysql&perline=5)](https://skillicons.dev)
+
+# How To Contact Me :
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mehdigeek)[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mahdimohammadimolahajiloo@gmail.com)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MahdiMohammadi-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiMohammadi-dev&theme=tokyonight&hide_border=false)<br/>
