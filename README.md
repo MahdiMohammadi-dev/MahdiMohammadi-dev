@@ -1,3 +1,10 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Mohammadi&fontAlign=50&fontAlignY=50&fontSize=70&color=gradient"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br>
+
+</div
+
 # 💫 About Me:
 👋 Hi, I'm Mehdi Mohammadi<br>👀 I am interested in Flutter framework & .Net Framework<br>🌱 I am currently learning Backend & Ai<br>💞️ I fight and strive for my goals and I have the madness of learning<br>📫 How to contact me: mahdimohammadimolahajiloo@gmail.com<br>  And I believe in God's arrangement, whether it's good or bad.❤️
 
