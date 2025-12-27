@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mehdi%20Mohammadi&fontAlign=50&fontAlignY=50&fontSize=70&color=gradient"><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br>
 <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahdiMohammadi-dev&bg_color=000000&color=ffffff&line=1f01b9&point=ffffff&area=true&hide_border=false" width="100%"><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahdiMohammadi-dev&bg_color=000000&color=ffffff&line=9ef01a&point=ffffff&area=true&hide_border=false" width="100%"><br>
 </div
 
 # 💫 About Me:
