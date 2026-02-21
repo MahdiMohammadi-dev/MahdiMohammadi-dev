@@ -7,7 +7,7 @@
 </div
 
 # 💫 About Me:
-👋 Hi, I'm Mehdi Mohammadi<br>👀 I am interested in Flutter framework & .Net Framework<br>🌱 I am currently learning Backend & Ai<br>💞️ I fight and strive for my goals and I have the madness of learning<br>📫 How to contact me: mahdimohammadimolahajiloo@gmail.com<br>  And I believe in God's arrangement, whether it's good or bad.❤️
+👋 Hi, I'm Mehdi Mohammadi<br>👀 I am interested in Flutter framework & .Net Core 🌱 I am currently learning Backend & Ai<br>💞️ I fight and strive for my goals and I have the madness of learning<br>📫 How to contact me: mahdimohammadimolahajiloo@gmail.com<br>  And I believe in God's arrangement, whether it's good or bad.❤️
 
 
 ## 🌐 Socials:
