@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mehdi%20Mohammadi&descAlignY=65&descAlign=51&desc=Software%20Enginner&reversal=true&animation=twinkling&fontColor=ffffff&stroke=000000&strokeWidth=2"><br>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Mehdi%20Mohammadi&descAlignY=65&descAlign=51&desc=Software%20Enginner&reversal=true&animation=twinkling&fontColor=ffffff&stroke=000000&strokeWidth=2"><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br>
 <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahdiMohammadi-dev&bg_color=000000&color=ffffff&line=9ef01a&point=ffffff&area=true&hide_border=false" width="100%"><br>
